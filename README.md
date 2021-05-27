@@ -1,2 +1,3 @@
 # edureka
-first repo
+first repository
+my first commit
